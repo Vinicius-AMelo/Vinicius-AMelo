@@ -33,3 +33,14 @@
   ![Snake animation](https://github.com/Vinicius-AMelo/Vinicius-AMelo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ### Principais Repositórios
+  
+<div align="center">
+ <a href="https://github.com/Vinicius-AMelo/pokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=pokedex&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Vinicius-AMelo/portifolio-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=portifolio-react&theme=midnight-purple" />
+</a>
+</div>
