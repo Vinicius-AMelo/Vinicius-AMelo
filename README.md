@@ -1,4 +1,4 @@
-### Oi, Eu sou o Vinícius 😁
+## Oi, Eu sou o Vinícius 😁
 
 - 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em: Next.Js, Redux e TypeScript
 - 👯 Estudo sozinho, então se gosta de ajudar um iniciantes FrontEnd pode entrar em contato 😊
@@ -11,6 +11,17 @@
   <a href="https://github.com/Vinicius-AMelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-AMelo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-AMelo&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
+   ## Principais Repositórios:
+  
+<div align="center">
+ <a href="https://github.com/Vinicius-AMelo/pokedex" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=pokedex&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Vinicius-AMelo/portifolio-react" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=portifolio-react&theme=midnight-purple" />
+</a>
 </div>
   
   <div style="display: inline_block"><br>
@@ -32,15 +43,4 @@
     
   ![Snake animation](https://github.com/Vinicius-AMelo/Vinicius-AMelo/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-  
-  ### Principais Repositórios
-  
-<div align="center">
- <a href="https://github.com/Vinicius-AMelo/pokedex" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=pokedex&theme=midnight-purple" />
-</a>
-<a href="https://github.com/Vinicius-AMelo/portifolio-react" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=portifolio-react&theme=midnight-purple" />
-</a>
 </div>
