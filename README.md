@@ -37,10 +37,10 @@
   ### Principais Repositórios
   
 <div align="center">
- <a href="https://github.com/Vinicius-AMelo/pokedex">
+ <a href="https://github.com/Vinicius-AMelo/pokedex" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=pokedex&theme=midnight-purple" />
 </a>
-<a href="https://github.com/Vinicius-AMelo/portifolio-react">
+<a href="https://github.com/Vinicius-AMelo/portifolio-react" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-AMelo&repo=portifolio-react&theme=midnight-purple" />
 </a>
 </div>
