@@ -1,8 +1,9 @@
 ## Oi, Eu sou o Vinícius 😁
 
-- 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em: Next.Js, Redux e TypeScript
-- 👯 Estudo sozinho, então se gosta de ajudar um iniciantes FrontEnd pode entrar em contato 😊
-- 💬 Também estou disponível para tirar todas as dúvidas de quem eu puder ajudar
+- 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em: Next.Js, Redux e TypeScript;
+- 💻 Outras tecnologias que tenho muita vontade de aprender e desenvolver são: Vue.JS e Mobile (React Native e/ou Flutter);
+- 👯 Estudo sozinho, então se gosta de ajudar iniciantes FrontEnd pode entrar em contato 😊;
+- 💬 Também estou disponível para tirar todas as dúvidas de quem eu puder ajudar;
 - 📫 Pode me contactar pelo Linkedin no botão logo abaixo.
 
 <br>
