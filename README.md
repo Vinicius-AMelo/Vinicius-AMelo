@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em Back-End: Node.JS, MySQL e MongoDB;
 - 💻 Outras tecnologias que tenho muita vontade de aprender e desenvolver são: React Native e/ou Flutter;
-- 👯 Estudo sozinho, então se gosta de ajudar iniciantes FrontEnd pode entrar em contato 😊;
 - 💬 Também estou disponível para tirar todas as dúvidas de quem eu puder ajudar;
 - 📫 Pode me contactar pelo Linkedin no botão logo abaixo.
 
