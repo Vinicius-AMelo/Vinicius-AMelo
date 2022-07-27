@@ -1,7 +1,7 @@
 ## Oi, Eu sou o Vinícius 😁
 
-- 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em: Next.Js, Redux e TypeScript;
-- 💻 Outras tecnologias que tenho muita vontade de aprender e desenvolver são: Vue.JS e Mobile (React Native e/ou Flutter);
+- 🌱 Atualmente estou estudando e/ou aprimorando meus conhecimentos em Back-End: Node.JS, MySQL e MongoDB;
+- 💻 Outras tecnologias que tenho muita vontade de aprender e desenvolver são: React Native e/ou Flutter;
 - 👯 Estudo sozinho, então se gosta de ajudar iniciantes FrontEnd pode entrar em contato 😊;
 - 💬 Também estou disponível para tirar todas as dúvidas de quem eu puder ajudar;
 - 📫 Pode me contactar pelo Linkedin no botão logo abaixo.
@@ -20,6 +20,10 @@
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="NodeJS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Express-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <img align="center" alt="MySQL-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="MongoDB-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="SASS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="TailwindCSS-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="right" alt="Vinícius-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FUqEuKjXEAAXZ3h?format=jpg&name=small">
